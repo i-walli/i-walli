@@ -9,3 +9,8 @@
 🇺🇸 I am a <b>Data Engineering</b> student, passionate about turning raw data into meaningful insights 🌱. Always eager to learn new technologies and improve my skills.<br><br>
 🇧🇷 Sou estudante de <b>Engenharia de Dados</b>, apaixonado por transformar dados brutos em insights valiosos 🌱. Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 </p>
+
+## 📌 Projects
+
+- [DataCamp Project - Data Analysis](https://www.datacamp.com/datalab/w/2c473894-af36-4984-917e-6d355a98f106/edit)  
+  First published project, focused on data analysis and manipulation.
